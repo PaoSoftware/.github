@@ -1,3 +1,3 @@
 ![PãoSoftware](../assets/logotipo.webp)
 # Quem somos nós?
-*descrição em desenvolvimento*
+Um grupo de desenvolvedores indie, criado por 3 amigos com objetivo de, além de criar jogos, criar experiências inesquecíveis e divertidas
